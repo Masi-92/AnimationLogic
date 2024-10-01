@@ -1,0 +1,45 @@
+[
+    {
+      "place": "Switzerland Alps",
+      "title": "SAINT",
+      "title2": "ANTONIEN",
+      "description": "Tucked away in the Switzerland Alps, Saint Antönien offers an idyllic retreat for those seeking tranquility and adventure alike.",
+      "image": "https://assets.codepen.io/3685267/timed-cards-1.jpg"
+    },
+    {
+      "place": "Japan Alps",
+      "title": "NANGANO",
+      "title2": "PREFECTURE",
+      "description": "Tucked away in the Japan Alps, Nangano Prefecture offers an idyllic retreat for those seeking tranquility and adventure alike.",
+      "image": "https://assets.codepen.io/3685267/timed-cards-2.jpg"
+    },
+    {
+      "place": "Sahara Desert - Morocco",
+      "title": "MARRAKECH",
+      "title2": "MEROUGA",
+      "description": "The Sahara Desert offers a surreal retreat for those seeking tranquility and adventure alike.",
+      "image": "https://assets.codepen.io/3685267/timed-cards-3.jpg"
+    },
+    {
+      "place": "Sierra Nevada - USA",
+      "title": "YOSEMITE",
+      "title2": "NATIONAL PARK",
+      "description": "Yosemite National Park offers an adventure retreat surrounded by nature’s grandeur.",
+      "image": "https://assets.codepen.io/3685267/timed-cards-4.jpg"
+    },
+    {
+      "place": "Tarifa - Spain",
+      "title": "LOS LANCES",
+      "title2": "BEACH",
+      "description": "Los Lances Beach in Tarifa offers an exciting blend of water sports and relaxation.",
+      "image": "https://assets.codepen.io/3685267/timed-cards-5.jpg"
+    },
+    {
+      "place": "Cappadocia - Turkey",
+      "title": "Göreme",
+      "title2": "Valley",
+      "description": "Göreme Valley in Cappadocia is known for its unique rock formations and hot air balloon rides.",
+      "image": "https://assets.codepen.io/3685267/timed-cards-6.jpg"
+    }
+  ]
+  
